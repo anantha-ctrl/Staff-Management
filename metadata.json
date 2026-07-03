@@ -1,0 +1,6 @@
+{
+  "name": "Staff Manager",
+  "description": "A comprehensive staff management system for hours tracking, performance reviews, and automated tax/payroll processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
